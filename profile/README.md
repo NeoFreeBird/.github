@@ -2,7 +2,7 @@
 
 *We freed the bird.*
 
-**NeoFreeBird** is an tweaked Twitter app for iOS that reverts rebranding, removes ads and other annoyances, restores old features, and much much more.
+**NeoFreeBird** is a tweaked Twitter app for iOS that reverts rebranding, removes ads and other annoyances, restores old features, and much, much more.
 
 ---
 
@@ -10,46 +10,42 @@
 
 <table>
   <tr>
-    <td width="100" align="center">
+    <td width="150" align="center">
       <a href="https://github.com/actuallyaridan">
-        <img src="https://unavatar.io/github/actuallyaridan" width="80" height="80" style="border-radius: 50%;" alt="actuallyaridan" />
+        <img src="https://github.com/actuallyaridan.png" width="80" alt="actuallyaridan" />
       </a>
     </td>
-    <td>
+    <td width="500">
       <b>@actuallyaridan</b><br />
-      Lead Developer & Maintainer
+      Lead Developer & Maintainer<br /><br />
     </td>
   </tr>
 </table>
 
----
-
 <table>
   <tr>
-    <td width="100" align="center">
+    <td width="150" align="center">
       <a href="https://github.com/nyathea">
-        <img src="https://unavatar.io/github/nyathea" width="80" height="80" style="border-radius: 50%;" alt="nyathea" />
+        <img src="https://github.com/nyathea.png" width="80" alt="nyathea" />
       </a>
     </td>
-    <td>
+    <td width="500">
       <b>@nyathea</b><br />
-      BHTwitter Fork Developer
+      BHTwitter Fork Developer<br /><br />
     </td>
   </tr>
 </table>
 
----
-
 <table>
   <tr>
-    <td width="100" align="center">
+    <td width="150" align="center">
       <a href="https://github.com/timi2506">
-        <img src="https://unavatar.io/github/timi2506" width="80" height="80" style="border-radius: 50%;" alt="timi2506" />
+        <img src="https://github.com/timi2506.png" width="80" alt="timi2506" />
       </a>
     </td>
-    <td>
+    <td width="500">
       <b>@timi2506</b><br />
-      Contributor & Support
+      Contributor & Support<br /><br />
     </td>
   </tr>
 </table>
@@ -60,14 +56,14 @@
 
 <table>
   <tr>
-    <td width="100" align="center">
+    <td width="150" align="center">
       <a href="https://github.com/BandarHL">
-        <img src="https://unavatar.io/github/BandarHL" width="80" height="80" style="border-radius: 50%;" alt="BandarHL" />
+        <img src="https://github.com/BandarHL.png" width="80" alt="BandarHL" />
       </a>
     </td>
-    <td>
+    <td width="500">
       <b>@BandarHL</b><br />
-      Original Developer of BHTwitter
+      Original Developer of BHTwitter<br /><br />
     </td>
   </tr>
 </table>
