@@ -1,8 +1,10 @@
 # NeoFreeBird
 
-*We freed the bird.*
+*"We freed the bird."*
 
 **NeoFreeBird** is a tweaked Twitter app for iOS that reverts rebranding, removes ads and other annoyances, restores old features, and much, much more.
+
+What are you waiting for? [Try it out here!](https://github.com/NeoFreeBird/app)
 
 ## Developers
 
