@@ -1,8 +1,8 @@
 # NeoFreeBird
 
-*"We freed the bird."*
+Do you hate the X rebrand as much as we do? do you wish you could get the bird back? well, you came to the right place!
 
-**NeoFreeBird** is a tweaked Twitter app for iOS that reverts rebranding, removes ads and other annoyances, restores old features, and much, much more.
+**NeoFreeBird** is a modded Twitter app for iOS/iPadOS devices that reverts X branding, removes ads, gets rid of annoyances, and much much more.
 
 What are you waiting for? [Try it out here!](https://github.com/NeoFreeBird/app/releases)
 
