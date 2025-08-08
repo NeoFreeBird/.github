@@ -2,7 +2,7 @@
 
 **NeoFreeBird** is a modded Twitter app for iOS/iPadOS devices that reverts X branding, removes ads, gets rid of annoyances, and much much more.
 
-What are you waiting for? [Try it out here! :3](https://github.com/NeoFreeBird/app/releases)
+What are you waiting for? [Try it out here! :3](https://github.com/NeoFreeBird/app)
 
 ## Developers
 
