@@ -15,7 +15,7 @@ What are you waiting for? [Try it out for yourself!](https://github.com/NeoFreeB
     </td>
     <td>
       <b>@actuallyaridan</b><br />
-      Lead Developer
+      Lead Maintainer
     </td>
   </tr>
   <tr>
@@ -26,7 +26,7 @@ What are you waiting for? [Try it out for yourself!](https://github.com/NeoFreeB
     </td>
     <td>
       <b>@nyathea</b><br />
-      BHTwitter Fork Developer
+      Tweak Developer
     </td>
   </tr>
   <tr>
